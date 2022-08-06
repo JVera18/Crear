@@ -19,6 +19,8 @@ public class login extends javax.swing.JFrame {
      */
     public login() {
         initComponents();
+        this.setLocationRelativeTo(null);
+        System.out.println("Cambio Julitza");
         System.out.println("Hola Mundo Soy Cesar");
         System.out.println("Pruebaaaaa");
         System.out.println("Danaste julitza!");

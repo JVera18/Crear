@@ -51,7 +51,8 @@ public class Archivo extends javax.swing.JFrame {
     public Archivo() {
         initComponents();
         rp = new Proceso();
-        
+        this.setLocationRelativeTo(null);
+        System.out.println("Cambio Julitza");
         try{
             cargar_txt();
             listarRegistro();
