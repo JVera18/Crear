@@ -32,6 +32,7 @@ public class login extends javax.swing.JFrame {
         //bg.add(a1, BorderLayout.CENTER);
         //bg.revalidate();
         //bg.repaint();
+        System.out.println("Haz el pull Julitzaaaa!");
     }
     
     
