@@ -19,7 +19,9 @@ public class login extends javax.swing.JFrame {
      */
     public login() {
         initComponents();
-        
+        System.out.println("Hola Mundo Soy Cesar");
+        System.out.println("Pruebaaaaa");
+        System.out.println("Danaste julitza!");
         //archivos a1 = new archivos();
         //a1.setSize(765, 540);
         //a1.setLocation(0, 0);
