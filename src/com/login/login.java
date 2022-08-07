@@ -34,6 +34,7 @@ public class login extends javax.swing.JFrame {
         //bg.repaint();
         System.out.println("Haz el pull Julitzaaaa!");
         System.out.println("DAÑASTES CESAR!!");
+        System.out.println("Ejemplo");
     }
     
     
